@@ -1,1 +1,1 @@
-# Descarga-de-im-genes-Copernicus
+# Descarga-de-imágenes-Copernicus
