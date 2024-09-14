@@ -12,4 +12,4 @@ Básicamente son 3 peticiones:
 
 * pandas
   
-*El resto de las librerías viene por defecto en el intérprete de Python.
+* El resto de las librerías viene por defecto en el intérprete de Python.
